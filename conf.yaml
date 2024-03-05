@@ -1,0 +1,5 @@
+server:
+  port: 8080
+database:
+  url: 
+secret: w8aW4H1DGmhAIdSYvAlUtzh9fbemvxqr
